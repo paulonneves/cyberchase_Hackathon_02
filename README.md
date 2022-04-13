@@ -19,23 +19,23 @@
 ### ➡ Desafio
 O desafio será reproduzir:
 
-1️⃣ Inserção de dados no Postgres a partir de ETL realizado utilizando a ferramenta Apache Hop
+* Inserção de dados no Postgres a partir de ETL realizado utilizando a ferramenta Apache Hop
 
-2️⃣ Um Data Warehouse no formato Star Schema no Postgres
+* Um Data Warehouse no formato Star Schema no Postgres
 
-3️⃣ Importação do esquema produzido no item anterior para o Power BI
+* Importação do esquema produzido no item anterior para o Power BI
 
-4️⃣ Os painéis das páginas 2.1 e 3.1 do [**Painel do Nilo Peçanha**](http://plataformanilopecanha.mec.gov.br/2021.html) no Power BI
+* Os painéis das páginas 2.1 e 3.1 do [**Painel do Nilo Peçanha**](http://plataformanilopecanha.mec.gov.br/2021.html) no Power BI
 
-5️⃣ Layout considerando boa comunicação visual e experiência do usuário
+* Layout considerando boa comunicação visual e experiência do usuário
 
 ### ➡ Requisitos Técnicos
 
-1️⃣ Todos os arquivos gerados devem estar organizados no GitHub
+* Todos os arquivos gerados devem estar organizados no GitHub
 
-2️⃣ Os painéis devem seguir a referência de boas práticas do MEC
+* Os painéis devem seguir a referência de boas práticas do MEC
 
-3️⃣ Os painéis da PNP ano 2021 devem ser usados como referência para contemplar todos os dados a serem apresentados e para analisar a corretude das informações ([**http://plataformanilopecanha.mec.gov.br/**](http://plataformanilopecanha.mec.gov.br/))
+* Os painéis da PNP ano 2021 devem ser usados como referência para contemplar todos os dados a serem apresentados e para analisar a corretude das informações ([**http://plataformanilopecanha.mec.gov.br/**](http://plataformanilopecanha.mec.gov.br/))
 
 
 ### ➡ Projeto Arquitetural
