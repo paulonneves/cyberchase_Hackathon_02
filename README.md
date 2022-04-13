@@ -2,7 +2,7 @@
 
 # 2º Hackathon DSBR
 
-<img src="https://dsbr.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa3d8cdf5-f2e8-47e9-a3eb-5470649056a7%2FUntitled.png?table=block&id=00a3fa36-d849-49cc-839b-23c283175597&spaceId=b0ad94d1-b13d-42e8-93ff-04ffcc74dc68&width=1540&userId=&cache=v2" style=" width: 100%" />
+<img src="https://dsbr.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa3d8cdf5-f2e8-47e9-a3eb-5470649056a7%2FUntitled.png?table=block&id=00a3fa36-d849-49cc-839b-23c283175597&spaceId=b0ad94d1-b13d-42e8-93ff-04ffcc74dc68&width=1540&userId=&cache=v2" style=" height: 400px" />
 
 # Relatório de Execução
 ## Equipe CyberChase
