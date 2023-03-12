@@ -2,7 +2,8 @@
 
 # 2º Hackathon DSBR
 
-<img src="https://dsbr.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa3d8cdf5-f2e8-47e9-a3eb-5470649056a7%2FUntitled.png?table=block&id=00a3fa36-d849-49cc-839b-23c283175597&spaceId=b0ad94d1-b13d-42e8-93ff-04ffcc74dc68&width=1540&userId=&cache=v2" style=" height: 400px" />
+![2023-03-12_09-45-00](https://user-images.githubusercontent.com/48892066/224545722-cc277e9c-da7e-48d8-92df-f31c6cf5b2ac.gif)
+
 
 # Relatório de Execução
 ## Equipe CyberChase
